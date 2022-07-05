@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://c.tenor.com/zQM7y1uwxZsAAAAC/thunderclap-and-flash-zenitsu-agatsuma.gif" alt="animated" />
+  <img src="https://c.tenor.com/pLhhw8tQib0AAAAC/killua-hunter-x-hunter.gif" alt="animated" />
 </p>
 
 ```Python
